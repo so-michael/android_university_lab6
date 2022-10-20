@@ -4,6 +4,7 @@ This is the starter code for lab 6, see [Android University Course - Lab 6](http
 
 Jeffrey Zhang and Michael So
 Jeffrey was the programmer and Michael read the instructions for the bottom navigation.
+Michael was the programmer and Jeffrey read the instructions for the fragment launching.
 
 
 
